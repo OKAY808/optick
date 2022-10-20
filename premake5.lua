@@ -1,8 +1,13 @@
 project "OptickCore"
 	uuid "830934D9-6F6C-C37D-18F2-FB3304348F00"
+	
     language "C++"
-	systemversion "latest"
     cppdialect "C++11"
+	
+	systemversion "latest"
+
+	targetdir ("%{prj.location}/bin/" .. outputdir)
+    objdir ("%{prj.location}/bin-int/" .. outputdir)
 
 	flags { "NoManifest", "FatalWarnings" }
 	warnings "Extra"
