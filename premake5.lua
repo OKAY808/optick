@@ -13,10 +13,12 @@ project "OptickCore"
 	warnings "Extra"
     symbols "On"
 
+if _ACTION == "vs2019" or _ACTION == "vs2022" then
 	buildoptions { 
 		"/wd4127", -- Conditional expression is constant
 		"/wd4091"  -- 'typedef ': ignored on left of '' when no variable is declared
 	}
+end
 
 	defines { "USE_OPTICK=1"}
 	defines { "OPTICK_FIBERS=1"}
