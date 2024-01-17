@@ -1,0 +1,11 @@
+﻿  optick_capi.cpp
+  optick_core.cpp
+  optick_gpu.cpp
+  optick_gpu.d3d12.cpp
+  optick_gpu.vulkan.cpp
+  optick_message.cpp
+  optick_miniz.cpp
+  optick_serialization.cpp
+  optick_server.cpp
+     Creating library bin\Debug-windows-\OptickCore.lib and object bin\Debug-windows-\OptickCore.exp
+  OptickCore.vcxproj -> C:\Projects\terran\terran-dotnet8\TerranEngine\vendor\Optick\bin\Debug-windows-\OptickCore.dll

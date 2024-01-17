@@ -3,7 +3,9 @@ project "OptickCore"
 	
     language "C++"
     cppdialect "C++11"
-	
+
+	architecture "x86_64"
+
 	systemversion "latest"
 
 	targetdir ("%{prj.location}/bin/" .. outputdir)
