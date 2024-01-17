@@ -1,9 +1,0 @@
-C:\Projects\terran\terran-dotnet8\TerranEngine\vendor\Optick\src\optick_capi.cpp;C:\Projects\terran\terran-dotnet8\TerranEngine\vendor\Optick\bin-int\Debug-windows-x86_64\optick_capi.obj
-C:\Projects\terran\terran-dotnet8\TerranEngine\vendor\Optick\src\optick_core.cpp;C:\Projects\terran\terran-dotnet8\TerranEngine\vendor\Optick\bin-int\Debug-windows-x86_64\optick_core.obj
-C:\Projects\terran\terran-dotnet8\TerranEngine\vendor\Optick\src\optick_gpu.cpp;C:\Projects\terran\terran-dotnet8\TerranEngine\vendor\Optick\bin-int\Debug-windows-x86_64\optick_gpu.obj
-C:\Projects\terran\terran-dotnet8\TerranEngine\vendor\Optick\src\optick_gpu.d3d12.cpp;C:\Projects\terran\terran-dotnet8\TerranEngine\vendor\Optick\bin-int\Debug-windows-x86_64\optick_gpu.d3d12.obj
-C:\Projects\terran\terran-dotnet8\TerranEngine\vendor\Optick\src\optick_gpu.vulkan.cpp;C:\Projects\terran\terran-dotnet8\TerranEngine\vendor\Optick\bin-int\Debug-windows-x86_64\optick_gpu.vulkan.obj
-C:\Projects\terran\terran-dotnet8\TerranEngine\vendor\Optick\src\optick_message.cpp;C:\Projects\terran\terran-dotnet8\TerranEngine\vendor\Optick\bin-int\Debug-windows-x86_64\optick_message.obj
-C:\Projects\terran\terran-dotnet8\TerranEngine\vendor\Optick\src\optick_miniz.cpp;C:\Projects\terran\terran-dotnet8\TerranEngine\vendor\Optick\bin-int\Debug-windows-x86_64\optick_miniz.obj
-C:\Projects\terran\terran-dotnet8\TerranEngine\vendor\Optick\src\optick_serialization.cpp;C:\Projects\terran\terran-dotnet8\TerranEngine\vendor\Optick\bin-int\Debug-windows-x86_64\optick_serialization.obj
-C:\Projects\terran\terran-dotnet8\TerranEngine\vendor\Optick\src\optick_server.cpp;C:\Projects\terran\terran-dotnet8\TerranEngine\vendor\Optick\bin-int\Debug-windows-x86_64\optick_server.obj
